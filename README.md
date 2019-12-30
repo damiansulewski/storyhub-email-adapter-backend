@@ -1,0 +1,1 @@
+# storyhub-email-adapter-backend
